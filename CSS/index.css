@@ -1,3 +1,7 @@
+body {
+  font-family: "Fraunces", serif;
+  font-family: "Montserrat", sans-serif;
+}
 .wrapper {
   --input-focus: #2d8cf0;
   --font-color: #323232;
